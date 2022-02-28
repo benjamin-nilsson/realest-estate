@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hottest houses 2022",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet ipsum urna mauris integer eleifend quam neque.",
+      "src": "images/beachHouse.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Futuristic houses",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet ipsum urna mauris integer eleifend quam neque.",
+      "src": "images/sydneyOperaHouse.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Inspiring celebrity houses",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet ipsum urna mauris integer eleifend quam neque.",
+      "src": "images/celebrityHouses.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "love",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "username": "benjamin",
+      "password": "admin"
+    },
+    {
+      "id": 3,
+      "username": "sebastian",
+      "password": "admin"
+    },
+    {
+      "id": 4,
+      "username": "william",
+      "password": "admin"
+    }
+  ]
+}

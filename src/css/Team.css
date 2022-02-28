@@ -1,0 +1,104 @@
+.realest {
+  padding-left: 100px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  font-family: SignikaSC;
+}
+
+.realest h1 {
+  font-size: 60px;
+  color: #fff;
+}
+
+.selfies {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+  cursor: pointer;
+}
+
+.infoBox {
+  background-color: #292d31;
+  border-radius: 10px;
+  color: #fff;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  padding: 5px;
+}
+
+.infoBox h1 {
+  font-family: SignikaSC;
+  font-size: 30px;
+}
+
+.infoBox a {
+  text-decoration: none;
+  color: #fff;
+}
+
+#love {
+  filter: gray;
+  -webkit-filter: grayscale(1);
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+#nilsson {
+  filter: gray;
+  -webkit-filter: grayscale(1);
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+#banfi {
+  filter: gray;
+  -webkit-filter: grayscale(1);
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+#william {
+  filter: gray;
+  -webkit-filter: grayscale(1);
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+#love:hover {
+  transform: scale(1.1);
+}
+
+#nilsson:hover {
+  transform: scale(1.1);
+}
+
+#banfi:hover {
+  transform: scale(1.1);
+}
+
+#william:hover {
+  transform: scale(1.1);
+}
+
+@media screen and (max-width: 900px) {
+  .realest {
+    padding: 0;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  .realest h1 {
+    font-size: 70px;
+    text-align: center !important;
+  }
+  .infoBox p {
+    font-size: 16px;
+  }
+  .infoBox a {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 760px) and (max-width: 1080px) {
+  .infoBox p {
+    font-size: 12px;
+  }
+  .infoBox a {
+    font-size: 12px;
+  }
+}

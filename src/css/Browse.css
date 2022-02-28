@@ -1,0 +1,47 @@
+.browse p,
+h1,
+h4 {
+  color: white;
+}
+
+.houseContainer > div > div > div {
+  padding: 10px;
+  background-color: rgba(77, 77, 77, 0.5);
+}
+
+.houseRows > div {
+  padding-top: 20px;
+}
+
+.headerImage {
+  padding-top: 100px;
+  background: url(/public/images/modernSquareHouseCropped.jpeg), center, center;
+  height: 45vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerText {
+  background-color: rgba(29, 29, 29, 0.5);
+  text-align: center;
+}
+.headerText > h1 {
+  font-size: 50px;
+  font-family: SignikaSC;
+}
+
+.buttonOffer {
+  font-weight: bold;
+  font-size: 18px;
+  background: orangered;
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+
+.buttonOffer:hover {
+  background: rgba(255, 68, 0, 0.589);
+}
+
+.botHouseRow {
+  padding-bottom: 20px;
+}

@@ -1,0 +1,7 @@
+.btn:hover {
+  background: rgba(255, 68, 0, 0.589) !important;
+}
+
+.btn:focus {
+  box-shadow: none !important;
+}

@@ -1,0 +1,29 @@
+.banner {
+  background: url(/public/images/empty-flat-interrior-with-elements-decoration-other.jpg) center center;
+  height: 45vh;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-text {
+  text-align: center;
+  padding: 19rem 0;
+}
+
+.banner-text h1 {
+  background: rgba(0, 0, 0, 0.35);
+  padding: 2rem
+}
+
+@media screen and (max-width: 400px) {
+  .banner-text {
+    padding: 8rem 2rem;
+  }
+
+  .banner {
+    justify-content:unset;
+    align-items: unset;
+  }
+}

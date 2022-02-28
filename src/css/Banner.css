@@ -1,0 +1,30 @@
+.banner {
+  background: url(/public/images/homeLogo.jpg) center center;
+  height: 50vh;
+  position: relative;
+  width: 100%;
+}
+
+.bg {
+  background: url(/public/images/decorated-interior-empty-home.jpg) center
+    center;
+  height: 45vh;
+  position: relative;
+  width: 100%;
+}
+
+.service-banner {
+  background: url(/public/images/purchase-gb3f3969b9_1920.jpg) center center;
+  height: 45vh;
+  position: relative;
+  width: 100%;
+}
+
+@media screen and (max-width: 900px) {
+  .bg {
+    height: 80vh;
+  }
+  .service-banner {
+    height: 80vh;
+  }
+}
