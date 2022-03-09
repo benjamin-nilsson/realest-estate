@@ -1,6 +1,5 @@
 # Realest Estates
-Real estate frontend web app by:
-Benjamin Nillson, Love Hillblom, Sebastian Banfi, William Hökegård
+A real-estate app.
 
 ### To run:
 `npm start`
@@ -11,3 +10,8 @@ Benjamin Nillson, Love Hillblom, Sebastian Banfi, William Hökegård
 3. Run on terminal: “npm install”
 4. Run on terminal: “npm start”
 5. Run “npm run server” on separate terminal
+
+### Technologies
+  • React
+
+![image](https://user-images.githubusercontent.com/80653191/157421965-1d2d7d74-f09a-4a30-b93f-b9c687553d49.png)
