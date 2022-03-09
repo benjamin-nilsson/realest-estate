@@ -9,7 +9,7 @@ A real-estate app.
 2. Delete package-lock.json
 3. Run on terminal: “npm install”
 4. Run on terminal: “npm start”
-5. Run “npm run server” on separate terminal
+5. Run “npm run server” on a separate terminal
 
 ### Technologies
   • React
